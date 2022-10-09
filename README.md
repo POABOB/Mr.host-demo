@@ -12,7 +12,7 @@
 - Search for the location, name, description of hotel, and make sure the room type of hotel is available.
 - Filter the specific condition using checkbox.
 - Sort the list of hotels with price, comment, default.
-- Design RWD UI for Desktop and Tablet equipments(not for mobile).
+- Design UI for Desktop equipments(not for mobile and Tablet).
 
 ## Lint
 - Use .editorconfig to lint the indent_size and charset.
@@ -26,7 +26,7 @@
 
 ## TODO
 - Search for the condition of date.
-- Make UI Beautiful for mobile equipments.
+- Make UI Beautiful for mobile and Tablet equipments.
 
 ## Project setup
 
