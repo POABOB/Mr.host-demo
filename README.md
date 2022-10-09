@@ -6,7 +6,7 @@
 
 ## Project URL
 
-- 
+- https://6342dd96181c6e2a2a89a1f0--magenta-gumption-e0c000.netlify.app/
 
 ## Features
 - Search for the location, name, description of hotel, and make sure the room type of hotel is available.
