@@ -1,0 +1,147 @@
+[
+  {
+    "name": "新竹福華大飯店 (Howard Plaza Hotel Hsinchu)",
+    "location": "新竹市 - 新竹縣",
+    "comment": 4.4,
+    "image": "https://gludio-develop.s3-ap-northeast-1.amazonaws.com/images/HUgwgvwbapssGm1g7iY6pJA5AezImbH9Otmyr42l.jpeg",
+    "description": "新竹福華大飯店為大新竹地區唯一四星級飯店，坐落於新竹市中心的精華商圈，擁有絕佳便利的交通位置。入住新竹福華體驗豪華客房的放鬆舒適，徒步享受城區週邊的道地美食。",
+    "equipments": ["免費無線網路", "附廚房", "洗衣房", "停車場", "寵物友善"],
+    "roomType": [
+      {
+        "people_available": 1,
+        "numbers_left": 6,
+        "price_per_night": 1500
+      },
+      {
+        "people_available": 2,
+        "numbers_left": 15,
+        "price_per_night": 2800
+      },
+      {
+        "people_available": 4,
+        "numbers_left": 10,
+        "price_per_night": 4100
+      },
+      {
+        "people_available": 6,
+        "numbers_left": 2,
+        "price_per_night": 8000
+      }
+    ]
+  },
+  {
+    "name": "煙波大飯店都會館 (Lakeshore Hotel Metropolis)",
+    "location": "新竹市 - 新竹縣",
+    "comment": 4.7,
+    "image": "https://pix8.agoda.net/hotelImages/748405/-1/e14ded035c2395c17947e5042f1212e1.jpg?ce=0&s=450x450",
+    "description": "煙波新竹都會館為大新竹地區最受商務客喜愛之飯店，其鄰近巨城購物中心、城隍廟商圈、新竹火車站、新竹動物園，車行15分鐘可達新竹高鐵站與新竹科學園區，擁有交通便捷、遊程機能一應俱全的優勢。館內設有新竹首家國際級的經典牛排館、經典歐風的咖啡廳、專業完善的商務空間，以及三溫暖、健身中心等休閒設施。 煙波都會館兼具商務與休閒的環境與功能，絕對是新竹觀光旅遊或竹科洽公商旅的飯店住宿最佳推薦。",
+    "equipments": ["免費無線網路", "禁菸客房"],
+    "roomType": [
+      {
+        "people_available": 1,
+        "numbers_left": 6,
+        "price_per_night": 2000
+      },
+      {
+        "people_available": 2,
+        "numbers_left": 15,
+        "price_per_night": 3700
+      },
+      {
+        "people_available": 4,
+        "numbers_left": 10,
+        "price_per_night": 5500
+      }
+    ]
+  },
+  {
+    "name": "新竹爛評價大飯店",
+    "location": "新竹市 - 新竹縣",
+    "comment": 1.5,
+    "image": "data:image/jpeg;base64,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",
+    "description": "我在新竹市的評價不太好...",
+    "equipments": [],
+    "roomType": [
+      {
+        "people_available": 1,
+        "numbers_left": 6,
+        "price_per_night": 1600
+      },
+      {
+        "people_available": 2,
+        "numbers_left": 15,
+        "price_per_night": 2800
+      },
+      {
+        "people_available": 4,
+        "numbers_left": 10,
+        "price_per_night": 4100
+      },
+      {
+        "people_available": 6,
+        "numbers_left": 2,
+        "price_per_night": 8000
+      }
+    ]
+  },
+  {
+    "name": "板橋凱撒大飯店 (Caesar Park Hotel Banqiao)",
+    "location": "台北市 - 板橋區",
+    "comment": 4.8,
+    "image": "https://pix8.agoda.net/hotelImages/2089511/-1/1c39978591e3ec673ccc050ceffaf2f4.jpg?ca=0&ce=1&s=1024x768",
+    "description": "板橋凱撒大飯店坐擁絕佳地理位置，距離板橋火車站/板橋高鐵/板橋捷運站僅需步行 3 分鐘路程，不論前往台北市區或連通其他縣市或觀光景點即可輕鬆到達。另外週邊景點包括大遠百購物中心、遠東百貨、林本源園邸、南雅夜市、府中商圈等，提供各式休閒娛樂及購物美食多元選擇。",
+    "equipments": ["免費無線網路", "禁菸客房", "附廚房", "洗衣房", "停車場", "寵物友善"],
+    "roomType": [
+      {
+        "people_available": 1,
+        "numbers_left": 6,
+        "price_per_night": 2000
+      },
+      {
+        "people_available": 2,
+        "numbers_left": 15,
+        "price_per_night": 3600
+      },
+      {
+        "people_available": 4,
+        "numbers_left": 10,
+        "price_per_night": 5100
+      },
+      {
+        "people_available": 6,
+        "numbers_left": 2,
+        "price_per_night": 9000
+      }
+    ]
+  },
+  {
+    "name": "老爺大酒店 (Hotel Royal Nikko Taipei)",
+    "location": "台北市 - 中山區",
+    "comment": 4.7,
+    "image": "https://pix8.agoda.net/hotelImages/6799077/0/4d29f69828f01264c868e0dbd33d3e7a.jpg?ca=22&ce=0&s=1024x768",
+    "description": "台北老爺大酒店，委由大倉日航酒店管理集團(Okura Nikko Hotel Management Co., Ltd.)經營管理，為台灣第一家國際日航連鎖飯店(Nikko Hotels International)。酒店外牆以磚紅色堆砌而成、內部則以明亮穩重的白色系為設計理念，打造出獨特的後現代歐洲建築。",
+    "equipments": ["免費無線網路", "禁菸客房", "附廚房", "洗衣房", "停車場", "寵物友善"],
+    "roomType": [
+      {
+        "people_available": 1,
+        "numbers_left": 6,
+        "price_per_night": 1600
+      },
+      {
+        "people_available": 2,
+        "numbers_left": 15,
+        "price_per_night": 2800
+      },
+      {
+        "people_available": 4,
+        "numbers_left": 10,
+        "price_per_night": 4100
+      },
+      {
+        "people_available": 6,
+        "numbers_left": 2,
+        "price_per_night": 8000
+      }
+    ]
+  }
+]
